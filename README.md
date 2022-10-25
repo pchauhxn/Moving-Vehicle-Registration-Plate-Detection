@@ -1,1 +1,1 @@
-# Moving-Vehicle-Registration-Plate-Detection
+# Vehicle-Registration-Plate-Detection
